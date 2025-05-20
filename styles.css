@@ -1,0 +1,13 @@
+body {
+    font-family: Lexend, sans-serif;
+    background-color: #ffffffbd;
+}
+
+.pfp {
+    animation: fadeIn 1s ease-in;
+    }
+
+    @keyframes fadeIn {
+        from { opacity: 0; }
+        to { opacity: 1; }
+}
